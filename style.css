@@ -62,3 +62,12 @@ input:focus {
     outline: none;
     border: 1px solid #ddd;
 }
+.search button {
+    height: 100%;
+    width: 60px;
+    border: none;
+}
+
+.mic {
+    margin-top: 10px;
+}
